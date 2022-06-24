@@ -1,7 +1,7 @@
 # Hi 👋, I'm Seth
 ### Associate Software Engineer In Beautiful Wilmington, North Carolina
 
-🔭 I’m currently working on building silly little apps for my friends :)
+🔭 I’m currently working on building silly little websites for my friends :)
 
 🌱 I’m currently learning how to properly wage war against the squirrels that keep eating my tomatoes
 
