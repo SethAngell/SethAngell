@@ -15,6 +15,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethangell&show_icons=true&locale=en" alt="sethangell" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethangell&count_private=true&show_icons=true&locale=en" alt="sethangell" /></p>
 
 
