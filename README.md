@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi 👋, I'm Seth
+### Associate Software Engineer In Beautiful Wilmington, North Carolina
 
-<!--
-**SethAngell/SethAngell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on building silly little apps for my friends :)
 
-Here are some ideas to get you started:
+🌱 I’m currently learning how to properly wage war against the squirrels that keep eating my tomatoes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on things that make creative peoples' lives easier
+
+😄 Pronouns: He/Him/His
+
+### Connect with me:
+[Twitter](https://twitter.com/sethangell) | [Instagram](https://instagram.com/sethangell) | [LinkedIn](https://Linkedin.com/in/sethangell) | [My Site](https://sethangell.com)
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethangell&show_icons=true&locale=en" alt="sethangell" /></p>
+
+
