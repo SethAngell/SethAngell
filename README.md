@@ -1,13 +1,7 @@
-# Hi 👋, I'm Seth
+# Hi 👋, I'm Seth (He/Him)
 ### Associate Software Engineer In Beautiful Wilmington, North Carolina
 
-🔭 I’m currently working on building silly little websites for my friends :)
-
-🌱 I’m currently learning how to properly wage war against the squirrels that keep eating my tomatoes
-
-👯 I’m looking to collaborate on things that make creative peoples' lives easier
-
-😄 Pronouns: He/Him/His
+I build FinTech applications at nCino and pipe dreams with my friends. Really into projects which help creative people `create`.
 
 ### Connect with me:
 [Twitter](https://twitter.com/sethangell) | [Instagram](https://instagram.com/sethangell) | [LinkedIn](https://Linkedin.com/in/sethangell) | [My Site](https://sethangell.com)
